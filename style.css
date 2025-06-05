@@ -150,6 +150,11 @@ body{
     border-radius: 50px;
     box-shadow:#3b2b1e 15px 15px 20px;
 
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin:0 auto;
+
 
 
 
